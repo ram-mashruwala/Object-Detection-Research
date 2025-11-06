@@ -4,10 +4,6 @@ To run this, please create a virtual environment and set the ipykernel to the vi
 
 ## Virtual Environment Creation:
 
-```bash
-
-```
-
 ### Mac/Linux:
 ```bash
 python3 -m venv venv
